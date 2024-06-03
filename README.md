@@ -6,10 +6,11 @@ Arcade is a user-interactive command-line program, that allows players to play s
 
 ## Game Contents 👾
 The games of choice consist of:
-1. '*' -> Player 👤: Signifies where the player is on the board. To move across the board utilize the a(left), d(right, w(up), and s(down) keys.
-2. & -> Enemies (ง'̀-'́)ง: Once the player collides with an enemy the game is OVERRR. As the player advances the number of enemies on the game board increases. The enemies are also randomly moving simultaneously as the player moves. 
-3. $ -> Treasure 🏴‍☠️: Each treasure contains a randomly generated amount of Prize Money, prize money dictates the score. As the player advances to different levels the level score and the total score are communicated
-4. @ -> Exit 🚫: This is your key to freedom! The player only advances to the next level once they reach the exit. Unlike treasures and enemies, there is only one exit.
+1. Coin Toss 🪙: Simple Coin Toss that uses randomization to return the result of the Heads-Tails toss
+2. Pet Trainer 🐕🦮: What is better than being the parent of up to 4 different pets? You'll find out by playing the Pet Simulator and taking care of your very own Cat, Dog, Chinchilla, and Duckie with customizable traits.
+3. Rock Paper Scissors 🪨📄✂️: The traditional game with a choice of Single Player vs Computer, or a 2 Player option. 
+4. Tic Tac Toe ❌ ⭕️: Another old-fashioned game you can play against yourself, or with a friend.
+5. All games with small hints of ASCII art ;)
 
 ## How to Clone This Repository
 -> To run this code, first ensure you have cloned the repository as such:
