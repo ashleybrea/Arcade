@@ -1,11 +1,11 @@
 # Arcade
 
 ## Description 
-Arcade is a user-interactive  command-line program, allowing players to play select from a selection of games, such as Tic-Tac-Toe, a Pet Caretaker Simulator, Coin Toss, and Rock Paper Scissors.
+Arcade is a user-interactive command-line program, that allows players to play select from a selection of games any number of times, with the choice to exit the arcade whenever they choose.
 
 
-## Game Logic 👾
-The game board consists of different players:
+## Game Contents 👾
+The games of choice consist of:
 1. '*' -> Player 👤: Signifies where the player is on the board. To move across the board utilize the a(left), d(right, w(up), and s(down) keys.
 2. & -> Enemies (ง'̀-'́)ง: Once the player collides with an enemy the game is OVERRR. As the player advances the number of enemies on the game board increases. The enemies are also randomly moving simultaneously as the player moves. 
 3. $ -> Treasure 🏴‍☠️: Each treasure contains a randomly generated amount of Prize Money, prize money dictates the score. As the player advances to different levels the level score and the total score are communicated
