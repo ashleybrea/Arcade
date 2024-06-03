@@ -15,7 +15,7 @@ The games of choice consist of:
 ## How to Clone This Repository
 -> To run this code, first ensure you have cloned the repository as such:
    ```bash
-   git clone https://gitfront.io/r/abrea/xHoS2NorFh6a/Dungeon-Crawler.git
+   git clone https://gitfront.io/r/abrea/fAahNnTBkjZQ/Arcade.git
    ```
 
 ## How to Run from an IDE
@@ -27,7 +27,7 @@ The games of choice consist of:
 ## How to Run From The Command Line
 -> First, move into the directory of the Main class:
 ```bash
-   cd Dungeon-Crawler/sc
+   cd Arcade/sc
    ```
 -> Then, run the Main class as so
 ```bash
